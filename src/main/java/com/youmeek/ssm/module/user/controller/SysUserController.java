@@ -1,6 +1,5 @@
 package com.youmeek.ssm.module.user.controller;
 
-import com.youmeek.ssm.module.user.pojo.SysUser;
 import com.youmeek.ssm.module.user.service.SysUserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
